@@ -1,0 +1,1 @@
+SELECT union_reporting.project.name, COUNT(DISTINCT union_reporting.test.name) AS TESTS FROM union_reporting.test JOIN union_reporting.project ON union_reporting.test.project_id = union_reporting.project.id  GROUP BY union_reporting.project.name;

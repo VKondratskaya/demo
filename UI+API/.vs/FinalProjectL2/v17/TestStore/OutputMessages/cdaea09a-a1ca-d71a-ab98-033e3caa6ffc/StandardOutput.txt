@@ -1,0 +1,66 @@
+2023-07-10 12:29:15 INFO - Browser 'Chrome' ready...
+2023-07-10 12:29:15 INFO - Adding Basic Authentication handler
+2023-07-10 12:29:15 INFO - Starting Network Monitoring
+2023-07-10 12:29:19 INFO - Navigate to URL - ' http://localhost:8080/web'
+2023-07-10 12:29:19 INFO - Refreshing the page
+2023-07-10 12:29:19 INFO - Button 'Go to Nexage' :: Clicking
+2023-07-10 12:29:23 INFO - Label 'element 1' :: Getting text from element
+2023-07-10 12:29:23 INFO - Label 'element 1' :: Element's text: [2016-10-13 09:50:40.0]
+13.10.2016 9:50:40
+2023-07-10 12:29:23 INFO - Label 'element 2' :: Getting text from element
+2023-07-10 12:29:23 INFO - Label 'element 2' :: Element's text: [2016-10-13 08:51:21.0]
+13.10.2016 8:51:21
+2023-07-10 12:29:23 INFO - Label 'element 3' :: Getting text from element
+2023-07-10 12:29:23 INFO - Label 'element 3' :: Element's text: [2016-10-13 08:46:21.0]
+13.10.2016 8:46:21
+2023-07-10 12:29:23 INFO - Label 'element 4' :: Getting text from element
+2023-07-10 12:29:23 INFO - Label 'element 4' :: Element's text: [2016-10-13 08:33:17.0]
+13.10.2016 8:33:17
+2023-07-10 12:29:23 INFO - Label 'element 5' :: Getting text from element
+2023-07-10 12:29:23 INFO - Label 'element 5' :: Element's text: [2016-10-13 08:10:16.0]
+13.10.2016 8:10:16
+2023-07-10 12:29:23 INFO - Label 'element 6' :: Getting text from element
+2023-07-10 12:29:23 INFO - Label 'element 6' :: Element's text: [2016-10-13 07:38:31.0]
+13.10.2016 7:38:31
+2023-07-10 12:29:23 INFO - Label 'element 7' :: Getting text from element
+2023-07-10 12:29:23 INFO - Label 'element 7' :: Element's text: [2016-10-13 07:34:06.0]
+13.10.2016 7:34:06
+2023-07-10 12:29:23 INFO - Label 'element 8' :: Getting text from element
+2023-07-10 12:29:23 INFO - Label 'element 8' :: Element's text: [2016-10-13 07:16:24.0]
+13.10.2016 7:16:24
+2023-07-10 12:29:23 INFO - Label 'element 9' :: Getting text from element
+2023-07-10 12:29:23 INFO - Label 'element 9' :: Element's text: [2016-10-13 07:11:31.0]
+13.10.2016 7:11:31
+2023-07-10 12:29:23 INFO - Label 'element 10' :: Getting text from element
+2023-07-10 12:29:23 INFO - Label 'element 10' :: Element's text: [2016-10-13 07:06:06.0]
+13.10.2016 7:06:06
+2023-07-10 12:29:23 INFO - Label 'element 11' :: Getting text from element
+2023-07-10 12:29:23 INFO - Label 'element 11' :: Element's text: [2016-10-13 06:50:14.0]
+13.10.2016 6:50:14
+2023-07-10 12:29:23 INFO - Label 'element 12' :: Getting text from element
+2023-07-10 12:29:23 INFO - Label 'element 12' :: Element's text: [2016-10-13 06:49:56.0]
+13.10.2016 6:49:56
+2023-07-10 12:29:23 INFO - Label 'element 13' :: Getting text from element
+2023-07-10 12:29:24 INFO - Label 'element 13' :: Element's text: [2016-10-13 06:43:48.0]
+13.10.2016 6:43:48
+2023-07-10 12:29:24 INFO - Label 'element 14' :: Getting text from element
+2023-07-10 12:29:24 INFO - Label 'element 14' :: Element's text: [2016-10-13 06:27:35.0]
+13.10.2016 6:27:35
+2023-07-10 12:29:24 INFO - Label 'element 15' :: Getting text from element
+2023-07-10 12:29:24 INFO - Label 'element 15' :: Element's text: [2016-10-13 06:23:57.0]
+13.10.2016 6:23:57
+2023-07-10 12:29:24 INFO - Label 'element 16' :: Getting text from element
+2023-07-10 12:29:24 INFO - Label 'element 16' :: Element's text: [2016-10-13 06:17:18.0]
+13.10.2016 6:17:18
+2023-07-10 12:29:24 INFO - Label 'element 17' :: Getting text from element
+2023-07-10 12:29:24 INFO - Label 'element 17' :: Element's text: [2016-10-13 06:11:35.0]
+13.10.2016 6:11:35
+2023-07-10 12:29:24 INFO - Label 'element 18' :: Getting text from element
+2023-07-10 12:29:24 INFO - Label 'element 18' :: Element's text: [2016-10-13 06:08:02.0]
+13.10.2016 6:08:02
+2023-07-10 12:29:24 INFO - Label 'element 19' :: Getting text from element
+2023-07-10 12:29:24 INFO - Label 'element 19' :: Element's text: [2016-10-13 06:02:08.0]
+13.10.2016 6:02:08
+2023-07-10 12:29:24 INFO - Label 'element 20' :: Getting text from element
+2023-07-10 12:29:24 INFO - Label 'element 20' :: Element's text: [2016-10-13 05:45:19.0]
+13.10.2016 5:45:19

@@ -1,0 +1,13 @@
+{
+  "Variant": "2",
+  "ProjectId": "1",
+  "ExpectedWindowCount": "1",
+  "SID": "123",
+  "testName": "1sttest",
+  "methodName": "unknown",
+  "env": "unknown",
+  "browser": "Chrome",
+  "content": "isException",
+  "contentType": "image/png",
+
+}

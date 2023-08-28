@@ -1,0 +1,60 @@
+2023-07-14 10:38:13 INFO - Browser 'Chrome' ready...
+2023-07-14 10:38:13 INFO - Adding Basic Authentication handler
+2023-07-14 10:38:13 INFO - Starting Network Monitoring
+2023-07-14 10:38:18 INFO - Navigate to URL - ' http://localhost:8080//web'
+2023-07-14 10:38:18 INFO - Refreshing the page
+2023-07-14 10:38:18 INFO - Button 'Go to Nexage' :: Clicking
+2023-07-14 10:38:21 INFO - Label 'Variant of task' :: Waiting for element to be displayed
+2023-07-14 10:38:25 INFO - Label 'element 1' :: Getting attribute 'innerText'
+2023-07-14 10:38:26 INFO - Label 'element 1' :: Value of attribute 'innerText': [2016-10-13 09:50:40.0]
+2023-07-14 10:38:26 INFO - Label 'element 2' :: Getting attribute 'innerText'
+2023-07-14 10:38:26 INFO - Label 'element 2' :: Value of attribute 'innerText': [2016-10-13 08:51:21.0]
+2023-07-14 10:38:26 INFO - Label 'element 3' :: Getting attribute 'innerText'
+2023-07-14 10:38:26 INFO - Label 'element 3' :: Value of attribute 'innerText': [2016-10-13 08:46:21.0]
+2023-07-14 10:38:26 INFO - Label 'element 4' :: Getting attribute 'innerText'
+2023-07-14 10:38:26 INFO - Label 'element 4' :: Value of attribute 'innerText': [2016-10-13 08:33:17.0]
+2023-07-14 10:38:26 INFO - Label 'element 5' :: Getting attribute 'innerText'
+2023-07-14 10:38:26 INFO - Label 'element 5' :: Value of attribute 'innerText': [2016-10-13 08:10:16.0]
+2023-07-14 10:38:26 INFO - Label 'element 6' :: Getting attribute 'innerText'
+2023-07-14 10:38:26 INFO - Label 'element 6' :: Value of attribute 'innerText': [2016-10-13 07:38:31.0]
+2023-07-14 10:38:26 INFO - Label 'element 7' :: Getting attribute 'innerText'
+2023-07-14 10:38:26 INFO - Label 'element 7' :: Value of attribute 'innerText': [2016-10-13 07:34:06.0]
+2023-07-14 10:38:26 INFO - Label 'element 8' :: Getting attribute 'innerText'
+2023-07-14 10:38:26 INFO - Label 'element 8' :: Value of attribute 'innerText': [2016-10-13 07:16:24.0]
+2023-07-14 10:38:26 INFO - Label 'element 9' :: Getting attribute 'innerText'
+2023-07-14 10:38:26 INFO - Label 'element 9' :: Value of attribute 'innerText': [2016-10-13 07:11:31.0]
+2023-07-14 10:38:26 INFO - Label 'element 10' :: Getting attribute 'innerText'
+2023-07-14 10:38:26 INFO - Label 'element 10' :: Value of attribute 'innerText': [2016-10-13 07:06:06.0]
+2023-07-14 10:38:26 INFO - Label 'element 11' :: Getting attribute 'innerText'
+2023-07-14 10:38:26 INFO - Label 'element 11' :: Value of attribute 'innerText': [2016-10-13 06:50:14.0]
+2023-07-14 10:38:26 INFO - Label 'element 12' :: Getting attribute 'innerText'
+2023-07-14 10:38:26 INFO - Label 'element 12' :: Value of attribute 'innerText': [2016-10-13 06:49:56.0]
+2023-07-14 10:38:26 INFO - Label 'element 13' :: Getting attribute 'innerText'
+2023-07-14 10:38:26 INFO - Label 'element 13' :: Value of attribute 'innerText': [2016-10-13 06:43:48.0]
+2023-07-14 10:38:26 INFO - Label 'element 14' :: Getting attribute 'innerText'
+2023-07-14 10:38:26 INFO - Label 'element 14' :: Value of attribute 'innerText': [2016-10-13 06:27:35.0]
+2023-07-14 10:38:26 INFO - Label 'element 15' :: Getting attribute 'innerText'
+2023-07-14 10:38:26 INFO - Label 'element 15' :: Value of attribute 'innerText': [2016-10-13 06:23:57.0]
+2023-07-14 10:38:26 INFO - Label 'element 16' :: Getting attribute 'innerText'
+2023-07-14 10:38:26 INFO - Label 'element 16' :: Value of attribute 'innerText': [2016-10-13 06:17:18.0]
+2023-07-14 10:38:26 INFO - Label 'element 17' :: Getting attribute 'innerText'
+2023-07-14 10:38:26 INFO - Label 'element 17' :: Value of attribute 'innerText': [2016-10-13 06:11:35.0]
+2023-07-14 10:38:26 INFO - Label 'element 18' :: Getting attribute 'innerText'
+2023-07-14 10:38:26 INFO - Label 'element 18' :: Value of attribute 'innerText': [2016-10-13 06:08:02.0]
+2023-07-14 10:38:26 INFO - Label 'element 19' :: Getting attribute 'innerText'
+2023-07-14 10:38:26 INFO - Label 'element 19' :: Value of attribute 'innerText': [2016-10-13 06:02:08.0]
+2023-07-14 10:38:26 INFO - Label 'element 20' :: Getting attribute 'innerText'
+2023-07-14 10:38:26 INFO - Label 'element 20' :: Value of attribute 'innerText': [2016-10-13 05:45:19.0]
+2023-07-14 10:38:26 INFO - Button 'Go to Home Page' :: Clicking
+2023-07-14 10:38:26 INFO - Link 'Add project' :: Clicking
+2023-07-14 10:38:26 INFO - Switching to new tab
+2023-07-14 10:38:26 INFO - Getting tab handles
+2023-07-14 10:38:26 INFO - Text Field 'Add project' :: Typing '9mUa8rchHmLn'
+2023-07-14 10:38:27 INFO - Button 'Submit project button' :: Waiting for element to be displayed
+2023-07-14 10:38:27 INFO - Button 'Submit project button' :: Clicking
+2023-07-14 10:38:27 INFO - Closing tab
+2023-07-14 10:38:27 INFO - Switching to new tab
+2023-07-14 10:38:27 INFO - Getting tab handles
+2023-07-14 10:38:27 INFO - Refreshing the page
+2023-07-14 10:38:27 INFO - Link 'New project' :: Clicking
+2023-07-14 10:38:28 INFO - Label 'The first test was added' :: Waiting for element to be displayed

@@ -1,0 +1,1 @@
+SELECT COUNT(browser) AS BROWSERS FROM union_reporting.test GROUP BY browser;

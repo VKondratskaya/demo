@@ -1,0 +1,1 @@
+SELECT union_reporting.project.name AS PROJECT, union_reporting.test.name, union_reporting.test.start_time AS DATE FROM union_reporting.test JOIN union_reporting.project ON union_reporting.test.project_id = union_reporting.project.id WHERE union_reporting.test.start_time > '2015-11-07' ORDER BY union_reporting.project.name, union_reporting.test.name;
